@@ -1,8 +1,8 @@
-.env
-_notes.txt
 venv_recipe/
 __pycache__/
 *.pyc
 */migrations/*
 db.sqlite3
+.env
+_notes.txt
 staticfiles/
